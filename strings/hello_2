@@ -1,6 +1,0 @@
-/* Localized versions of Info.plist keys */
-
-"title.hello"			="Hello";
-"title.doctors"			="Doctos";
-"title.select_doctors" 	="select_doctors";
-"title.inbox"			="inbox";
