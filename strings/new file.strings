@@ -1,8 +1,0 @@
-/* Localized versions of Info.plist keys */
-
-"q.hello"			="Hello";
-"q.doctors"			="Doctos";
-"q.select_doctors" 	="select_doctors";
-"q.inbox"			="inbox";
-"q.test"			="Test";
-"q.home"			="Home";
