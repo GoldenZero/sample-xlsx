@@ -1,0 +1,10 @@
+/* Localized versions of Info.plist keys */
+
+"title.hello"			="Hola";
+"title.doctors"			="Doctos";
+"title.select_doctors" 	="Select_doctors";
+"title.inbox"			="Bandeja de entrada";
+"title.hello1"			="Hola 2";
+"title.doctors1"			="Doctos 2";
+"title.select_doctors1" 	="Select_doctors 2";
+"title.inbox1"			="Bandeja de entrada 2";
