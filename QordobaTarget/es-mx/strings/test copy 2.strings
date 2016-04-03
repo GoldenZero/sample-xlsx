@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+"title.hello"			="Hola Yupppi";
+"title.doctors"			="Doctos";
+"title.select_doctors" 	="Select_doctors";
+"title.inbox"			="Bandeja de entrada";
